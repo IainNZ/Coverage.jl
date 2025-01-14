@@ -302,6 +302,7 @@ For AppVeyor, add this to `.appveyor.yml`:
 * [TaylorIntegration.jl](https://github.com/PerezHz/TaylorIntegration.jl)
 * [TaylorSeries.jl](https://github.com/JuliaDiff/TaylorSeries.jl)
 * [TextWrap.jl](https://github.com/carlobaldassi/TextWrap.jl)
+* [Tidier.jl](https://github.com/TidierOrg/Tidier.jl)
 * [TimeData.jl](https://github.com/cgroll/TimeData.jl)
 * [TypeCheck.jl](https://github.com/astrieanna/TypeCheck.jl)
 * [Unitful.jl](https://github.com/ajkeller34/Unitful.jl)
